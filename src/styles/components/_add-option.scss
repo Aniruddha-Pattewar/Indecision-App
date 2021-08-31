@@ -1,0 +1,23 @@
+// Add option error
+.add-option-error{
+    font-style: italic;
+    color:$off-white;
+    margin:$m-size 0 0 0;
+    padding:0 $m-size;
+}
+
+//form add option
+.add-option{
+    display: flex;
+    padding: $s-size;
+}
+
+.add-option__input{
+    flex-grow: 1;
+    margin-right: $s-size;
+    background: $dark-blue;
+    border:none;
+    border-bottom: 0.3rem solid darken($dark-blue,10%);
+    color:$off-white;
+    padding: $s-size;
+}

@@ -1,0 +1,30 @@
+// widget
+
+.widget{
+    background: $light-blue;
+    margin:0 0 $xl-size 0;
+}
+
+// widget element
+.widget__message{
+    color: $off-white;
+    margin:0;
+    padding:$l-size;
+    border-bottom: 0.1rem solid lighten($light-blue,10%);
+    text-align: center;
+}
+
+// Options block
+.widget-header{
+    background: $blue;
+    color:$off-white;
+    padding:$m-size;
+    display: flex;
+    justify-content: space-between;
+}
+
+//block element
+.widget-header__title{
+    margin:0;
+    
+}
