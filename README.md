@@ -2,6 +2,6 @@
 
 ## mock up screeens 
 
-![Screenshot](./public/images/Homepage.PNG)
-![Screenshot](./public/images/Dashboard.PNG)
+![Screenshot](./public/images/Homepage.png)
+![Screenshot](./public/images/Dashboard.png)
 ![Screenshot](./public/images/modalView.png)
